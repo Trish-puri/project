@@ -1,8 +1,7 @@
-#include <stdio.h>
+// #include <stdio.h>
 
-int main() {
-  char myText[] = 'Hello';
-  printf(%c, myText);
-  return 0;
-}
-
+// int main() {
+//   char myText[] = Hello;
+//   printf(%s, myText);
+//   return 0;
+// }
